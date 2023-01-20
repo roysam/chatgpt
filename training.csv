@@ -1,0 +1,21 @@
+ID,Owner,CVE,Image,Cluster,False Positive
+1,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+2,john@cloud.xyz,CVE-2022-22965,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+3,john@cloud.xyz,CVE-2021-45105,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+4,john@cloud.xyz,CVE-2021-45046,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+5,john@cloud.xyz,CVE-2021-44228,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+6,john@cloud.xyz,CVE-2021-21342,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+7,john@cloud.xyz,CVE-2019-25013,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+8,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+9,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+10,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+11,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,No
+12,security@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/xyz/xyzbeta:v1.2.3,aks-sg-abcdefgh,No
+13,security@cloud.xyz,CVE-2022-22965,acrsg.azurecr.io/xyz/xyzbeta:v1.2.3,aks-sg-abcdefgh,No
+14,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.4,aks-sg-7e123123,No
+15,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.5,aks-sg-7e123123,No
+16,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.6,aks-sg-7e123123,No
+17,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.7,aks-sg-7e123123,No
+18,john@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.8,aks-sg-7e123123,No
+19,devops@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.9,aks-sg-7e123123,Yes
+20,devops@cloud.xyz,CVE-2020-17523,acrsg.azurecr.io/abc/abcbeta:v1.2.10,aks-sg-7e123123,Yes
