@@ -1,0 +1,11 @@
+key,owner,image,cluster,cvss,cve,description
+1,john@cloud.xyz,acrsg.azurecr.io/abc/abcbeta:v1.2.3,aks-sg-7e123123,3.7,CVE-2020-17523,Salted Caramel Core
+2,john@cloud.xyz,acrsg.azurecr.io/abc/abcbeta:v1.2.4,aks-sg-7e123123,4,CVE-2022-22965,Netflix & Chilll'd™
+3,john@cloud.xyz,acrsg.azurecr.io/ddd/abcbeta:v1.2.3,aks-sg-7e123123,4.7,CVE-2021-45105,Chip Happens
+4,john@cloud.xyz,acrsg.azurecr.io/eee/abcbeta:v1.2.3,aks-sg-7e123123,3.6,CVE-2021-45046,Cannoli
+5,john@cloud.xyz,acrsg.azurecr.io/fff/abcbeta:v1.2.3,aks-sg-7e123456,4.5,CVE-2021-44228,Gimme S’more!™
+6,john@cloud.xyz,acrsg.azurecr.io/ggg/abcbeta:v1.2.3,aks-sg-7e123abc,4.9,CVE-2021-21342,Peanut Butter Half Baked®
+7,john@cloud.xyz,acrsg.azurecr.io/hhh/abcbeta:v1.2.3,aks-sg-7e123789,4.6,CVE-2019-25013,Berry Sweet Mascarpone
+8,john@cloud.xyz,acrsg.azurecr.io/iii/abcbeta:v1.2.3,aks-sg-7e123xxx,5,CVE-2020-17523,Chocolate Peanut Butter Split
+9,john@cloud.xyz,acrsg.azurecr.io/jjj/abcbeta:v1.2.3,aks-sg-7e123yyy,4.3,CVE-2020-17523,Justice ReMix'd ™
+10,john@cloud.xyz,acrsg.azurecr.io/iii/abcbeta:v1.2.3,aks-sg-7e123zzz,4.7,CVE-2021-44228,Boots on the Moooo’n™
